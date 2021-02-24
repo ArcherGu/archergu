@@ -22,6 +22,6 @@ Hi, I'm Archer Gu🏹, a software developer from China.
 <a href="https://github.com/ArcherGu/quick-event">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=quick-event&theme=onedark" />
 </a>
-<a href="hhttps://github.com/ArcherGu/easy-property-retriever">
+<a href="https://github.com/ArcherGu/easy-property-retriever">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=easy-property-retriever&theme=onedark" />
 </a>
