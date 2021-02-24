@@ -1,5 +1,27 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=archergu&count_private=true&show_icons=true&theme=radical)](https://github.com/ArcherGu)
+### Hi there, I'm Archer👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archergu&layout=compact)](https://github.com/ArcherGu)
+Hi, I'm Archer Gu, a software developer from China.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=vue-store-bus)](https://github.com/ArcherGu/vue-store-bus)
+- 🙋🏼‍♂️ I’m working on medical and health field now
+- 🎯 My current technical focus is frontend
+- 💻 I’m currently learning WebGL
+- 🏢 My current working city is Ningbo
+- 💬 Ask me about anything [here](https://github.com/archergu/archergu/issues)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></code>
+
+<a href="https://github.com/ArcherGu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archergu&count_private=true&show_icons=true&theme=onedark&hide=issues" alt="Archer's github stats" />
+</a>
+<a href="https://github.com/ArcherGu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archergu&layout=compact&theme=onedark" />
+</a>
+
+<a href="https://github.com/ArcherGu/quick-event">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=quick-event&theme=onedark" />
+</a>
+<a href="hhttps://github.com/ArcherGu/easy-property-retriever">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=easy-property-retriever&theme=onedark" />
+</a>
