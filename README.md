@@ -1,6 +1,6 @@
 ### Hi there, I'm Archer👋
 
-Hi, I'm Archer Gu, a software developer from China.
+Hi, I'm Archer Gu🏹, a software developer from China.
 
 - 🙋🏼‍♂️ I’m working on medical and health field now
 - 🎯 My current technical focus is frontend
