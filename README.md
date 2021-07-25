@@ -19,9 +19,10 @@ Hi, I'm Archer Gu🏹, a software developer from China.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archergu&layout=compact&theme=onedark" />
 </a>
 
-<a href="https://github.com/ArcherGu/quick-event">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=quick-event&theme=onedark" />
+<a href="https://github.com/ArcherGu/fast-vite-nestjs-electron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=fast-vite-nestjs-electron&theme=onedark" />
 </a>
-<a href="https://github.com/ArcherGu/easy-property-retriever">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=archergu&repo=easy-property-retriever&theme=onedark" />
+
+<a href="https://github.com/ArcherGu/foraging">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArcherGu&repo=foraging&theme=onedark" />
 </a>
