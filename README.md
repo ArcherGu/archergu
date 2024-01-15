@@ -3,6 +3,7 @@
 Hi, I'm Archer Gu🏹, a software developer from China. I work in the exploratory department of the company and I am creating amazing applications with [vue](https://v3.vuejs.org/) / [react](https://reactjs.org/) / [electron](https://www.electronjs.org/) / [nestjs](https://nestjs.com/) / [go](https://go.dev/) / [c++](https://isocpp.org/).
 
   > 🔥 I'm looking for a remote job, email [me](mailto:archergu11@qq.com) if you're hiring! (Blockchain, cryptocurrency, web3 job is not accepted)
+
   > 🔥 我正在寻找远程工作，如果您有合适的工作机会，请通过邮件联系[我](mailto:archergu11@qq.com)! (不接受区块链、加密货币、web3相关工作)
 
 - 🙋🏼‍♂️ I’m working on medical and health field now
