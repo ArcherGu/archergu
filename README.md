@@ -1,10 +1,10 @@
 ### Hi there, I'm Archer👋
 
-Hi, I'm Archer Gu🏹, a software developer from China. I work in the exploratory department of the company and I am creating amazing applications with [vue](https://v3.vuejs.org/) / [react](https://reactjs.org/) / [electron](https://www.electronjs.org/) / [nestjs](https://nestjs.com/) / [go](https://go.dev/) / [c++](https://isocpp.org/).
+Hi, I'm Archer Gu🏹, a full-stack engineer. I am creating amazing applications with [vue](https://v3.vuejs.org/) / [react](https://reactjs.org/) / [electron](https://www.electronjs.org/) / [nestjs](https://nestjs.com/) / [go](https://go.dev/) / [c++](https://isocpp.org/).
 
-- 🙋🏼‍♂️ I’m working on medical and health field now
+- 🙋🏼‍♂️ I'm maintaining some open source projects and I ❤️ open source
 - 🎯 I focus on front-end and nodejs back-end development
-- ⛅ I also work on DevOps. I love cloud native!
+- ⛅ I also work on DevOps. I 💖 cloud native!
 - 🏢 My current working city is Ningbo
 - 💬 Ask me about anything [here](https://github.com/archergu/archergu/issues)
 - 🌟 Welcome to my website: [archergu.me](https://archergu.me/)
