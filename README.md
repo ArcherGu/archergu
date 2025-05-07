@@ -5,7 +5,6 @@ Hi, I'm Archer Gu🏹, a full-stack engineer. I am creating amazing applications
 - 🙋🏼‍♂️ I'm maintaining some open source projects and I ❤️ open source
 - 🎯 I focus on front-end and nodejs back-end development
 - ⛅ I also work on DevOps. I 💖 cloud native!
-- 🏢 My current working city is Ningbo
 - 💬 Ask me about anything [here](https://github.com/archergu/archergu/issues)
 - 🌟 Welcome to my website: [archergu.me](https://archergu.me/)
 
