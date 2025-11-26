@@ -1,6 +1,6 @@
 ### Hi there, I'm Archer👋
 
-Hi, I'm Archer Gu🏹, a full-stack engineer. I am creating amazing applications with [vue](https://v3.vuejs.org/) / [react](https://reactjs.org/) / [electron](https://www.electronjs.org/) / [nestjs](https://nestjs.com/) / [go](https://go.dev/) / [c++](https://isocpp.org/).
+Hi, I'm Archer Gu🏹, a full-stack engineer. I am creating amazing applications with [vue](https://v3.vuejs.org/) / [svelte](https://svelte.dev/) / [react](https://reactjs.org/) / [electron](https://www.electronjs.org/) / [nestjs](https://nestjs.com/) / [go](https://go.dev/) / [c++](https://isocpp.org/).
 
 - 🙋🏼‍♂️ I'm maintaining some open source projects and I ❤️ open source
 - 🎯 I focus on front-end and nodejs back-end development
